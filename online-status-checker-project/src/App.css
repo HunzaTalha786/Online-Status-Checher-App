@@ -22,6 +22,9 @@ div{
   border-radius:50px;
   padding: 1.4rem;
 }
+h1{
+  color: #333;
+}
 .online-status {
   text-align: center;
   padding: 5px;
